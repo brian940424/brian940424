@@ -20,7 +20,7 @@
 
 <!-- 關於我 -->
 ## *About me*
-> Hello, I'm a 18 years ago student from Taiwan.（你好，我是一名來自台灣的 18 歲大學生。）
+> Hello, I'm a 18 years old student from Taiwan.（你好，我是一名來自台灣的 18 歲大學生。）
 
 目前就讀資訊工程系，喜愛鑽研程式技術與沉浸在 Debug 地獄中。
 
