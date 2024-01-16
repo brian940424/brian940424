@@ -1,3 +1,4 @@
+<img src="https://media1.tenor.com/m/llq0fEoH5W0AAAAC/welcome.gif" width="1200" height="300"/>
 <h1 align="center">Hi there 👋</h1>
 
 <!-- 個人簡介 -->
